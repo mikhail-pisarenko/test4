@@ -1,0 +1,10 @@
+{
+  "app_name": "SampleApp",
+  "version": "1.0.0",
+  "developer": "John Doe",
+  "config": {
+    "api_url": "https://api.sampleapp.com",
+    "db_password": "password1234",
+    "debug_mode": true
+  }
+}
